@@ -1,0 +1,74 @@
+#!name=广告拦截&净化合集
+#!desc=拦截常用APP和小程序广告
+
+[Argument]
+alyp_enable = switch,true,false,tag=阿里云盘
+
+[Rule]
+
+[Rewrite]
+# > 12123
+# hostname = gab.122.gov.cn
+#^https?:\/\/gab\.122\.gov\.cn\/eapp\/m\/sysquery reject
+^https?:\/\/gab\.122\.gov\.cn\/eapp\/m\/sysquery\/adver$ reject
+
+# > 阿里云盘
+# hostname = api.alipan.com, member.alipan.com
+^https:\/\/api\.alipan\.com\/adrive\/v1\/file\/getTopFolders reject-dict
+^https:\/\/member\.alipan\.com\/v2\/activity\/sign_in_luckyBottle reject-dict
+
+# > 币安
+# hostname = www.binance.info, www.yingwangtech.net, www.binance.com
+# 开屏广告
+^https?:\/\/www\.(binance|yingwangtech)\.(com|info|net)\/bapi\/composite\/v1\/public\/market\/holiday-atmosphere reject-dict
+
+# > csdn
+# hostname = app-gw.csdn.net, gw.csdn.net
+# 感谢【Jörgen Frecht】分享
+^https?:\/\/app-gw\.csdn\.net\/silkroad-api\/api\/v\d\/assemble\/list\/pub\/channel\/app_open_screen_ad reject
+^https?:\/\/app-gw\.csdn\.net\/abtesting\/v2\/getList? reject
+^https?:\/\/gw\.csdn\.net\/cms-app\/v\d+\/home_page\/open_advertisement reject
+
+# > 得物
+# 开屏广告 【Runestoner】分享
+^https?:\/\/app\.dewu\.com\/api\/v1\/app\/advertisement reject
+^https?:\/\/cdn\.poizon\.com\/node-common\/.*.jpg reject-200
+
+# > 肯德基
+# hostname = res.kfc.com.cn
+^https?:\/\/res\.kfc\.com\.cn\/CRM\/kfcad\/apphome5\/apphome reject-200
+^https?:\/\/res\.kfc\.com\.cn\/CRM\/kfcad\/apphome6\/\w+\.json\? reject-dict
+^https?:\/\/res\.kfc\.com.\cn\/advertisement\/ reject
+
+# > 麦当劳
+# hostname = api.mcd.cn
+^https?:\/\/api\.mcd\.cn\/bff\/portal\/home\/splash reject-200
+
+# Talkatone
+# hostname = alt-r.my.com, imgx.jampp.com
+^https?:\/\/alt-r\.my\.com\/mobile reject-dict
+^https?:\/\/imgx\.jampp\.com\/imgsrv\/tn reject-img
+
+# > 中国联通
+# hostname = m.client.10010.com, m1.ad.10010.com, res.mall.10010.cn
+^https?:\/\/m\.client\.10010\.com\/mobileService\/(activity|customer)\/(accountListData|get_client_adv|get_startadv) reject-img
+^https?:\/\/m\.client\.10010\.com\/mobileService\/customer\/getclientconfig\.htm reject-dict
+^https?:\/\/m\.client\.10010\.com\/uniAdmsInterface\/(getHomePageAd|getWelcomeAd) reject-img
+^https?:\/\/[^(apple|10010)]+\.(com|cn)\/(a|A)d(s|v)?(\/|\.js) reject-img
+^https?:\/\/m1\.ad\.10010\.com\/noticeMag\/images\/imageUpload\/2\d{3} reject-img
+^https?:\/\/res\.mall\.10010\.cn\/mall\/common\/js\/fa\.js?referer= reject-img
+
+# > 中国电信
+# hostname = cloud.189.cn, zt-app.go189.cn
+^https?:\/\/cloud\.189\.cn\/include\/splash\/ reject
+^https?:\/\/zt-app\.go189\.cn\/zt-app\/welcome\/.*?Animation reject-img
+
+
+[Script]
+
+# > 阿里云盘
+http-response ^https:\/\/api\.alipan\.com\/apps\/v2\/users\/home\/(news|widgets) script-path=https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/adrive/adrive.js, requires-body=true, timeout=60, tag=阿里云盘, enable={alyp_enable}
+http-response ^https:\/\/member\.alipan\.com\/v1\/users\/onboard_list script-path=https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/adrive/adrive.js, requires-body=true, timeout=60, tag=阿里云盘, enable={alyp_enable}
+
+[MITM]
+hostname = gab.122.gov.cn,api.alipan.com, member.alipan.com,www.binance.info, www.yingwangtech.net, www.binance.com,app-gw.csdn.net, gw.csdn.net,res.kfc.com.cn,api.mcd.cn,alt-r.my.com, imgx.jampp.com,m.client.10010.com, m1.ad.10010.com, res.mall.10010.cn,cloud.189.cn, zt-app.go189.cn
