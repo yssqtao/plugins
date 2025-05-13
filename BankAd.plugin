@@ -34,4 +34,4 @@
 [Script]
 
 [MITM]
-hostname = v.icbc.com.cn,midc.cdn-static.abchina.com.cn, enjoy.cdn-static.abchina.com,webappcfg.paas.cmbchina.com, mbmodule-openapi.paas.cmbchina.com,mbasecc.bas.cmbchina.com, mbasecc.bcs.cmbchina.com, intellicc.bas.cmbchina.com, intellicc.bcs.cmbchina.com
+hostname = v.icbc.com.cn, midc.cdn-static.abchina.com.cn, enjoy.cdn-static.abchina.com, webappcfg.paas.cmbchina.com, mbmodule-openapi.paas.cmbchina.com, mbasecc.bas.cmbchina.com, mbasecc.bcs.cmbchina.com, intellicc.bas.cmbchina.com, intellicc.bcs.cmbchina.com
