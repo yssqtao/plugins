@@ -1,0 +1,27 @@
+#!name=顺丰去广告
+#!desc=针对顺丰APP和小程序广告进行拦截
+
+[Rule]
+
+[Rewrite]
+
+# > 顺丰快递
+# hostname = ccsp-egmas.sf-express.com, ucmp.sf-express.com
+# APP净化 感谢【怎么肥事】分享
+^https?:\/\/ucmp\.sf-express\.com\/proxy\/esgcempcore\/memberGoods\/pointMallService\/goodsList reject-dict
+^https?:\/\/ccsp-egmas\.sf-express\.com\/cx-app-video\/video\/app\/video\/labelClusterList reject-dict
+^https?:\/\/ccsp-egmas\.sf-express\.com\/cx-app-base\/base\/app\/ad\/queryInfoFlow reject-dict
+^https?:\/\/ccsp-egmas\.sf-express\.com\/cx-app-base\/base\/app\/bms\/queryRecommend reject-dict
+
+# > 顺丰快递小程序
+# hostname = mcs-mimp-web.sf-express.com, ucmp.sf-express.com
+^https?:\/\/mcs-mimp-web\.sf-express\.com\/mcs-mimp\/integralPlanet\/getCxAdvertiseList reject-dict
+^https?:\/\/ucmp-static\.sf-express\.com\/proxy\/wxbase\/wxTicket\/wxLiveStreamInfo\?pageNo reject-dict
+^https?:\/\/ucmp\.sf-express\.com\/proxy\/operation-platform\/info-flow-adver\/query reject-dict
+^https?:\/\/ucmp\.sf-express\.com\/proxy\/esgcempcore\/memberManage\/memberEquity\/queryRecommendEquity reject-dict
+^https?:\/\/ucmp\.sf-express\.com\/proxy\/esgcempcore\/memberActLengthy\/fullGiveActivityService\/fullGiveInfo reject-dict
+
+[Script]
+
+[MITM]
+hostname = ccsp-egmas.sf-express.com, ucmp.sf-express.com, mcs-mimp-web.sf-express.com, ucmp.sf-express.com
