@@ -1,0 +1,119 @@
+mixed-port: 7890
+allow-lan: true
+bind-address: "*"
+ipv6: true
+unified-delay: true
+dns:
+  enable: true
+  listen: :1053
+  ipv6: true
+  prefer-h3: false
+  respect-rules: true
+  default-nameserver:
+    - 223.5.5.5
+    - 119.29.29.29
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  use-hosts: true
+  use-system-hosts: false
+  cache-algorithm: arc
+  nameserver:
+    - 1.1.1.1
+    - 8.8.8.8
+  proxy-server-nameserver:
+    - https://doh.pub/dns-query
+  direct-nameserver:
+    - https://doh.pub/dns-query
+  nameserver-policy:
+    "+.makima.online":
+      - 119.29.29.29
+    "geosite:cn,private":
+      - https://doh.pub/dns-query
+      - https://dns.alidns.com/dns-query
+  fallback:
+    - https://1.1.1.1/dns-query
+    - https://doh.apad.pro/dns-query
+  fallback-filter:
+    geoip: false
+    ipcidr:
+      - 240.0.0.0/4
+      - 0.0.0.0/32
+      - 61.160.148.90/32
+      - 3131:3131:3131:3131:3131:3131:3131:3131/128
+    domain:
+      - +.fmta.boo
+
+# 定义锚点
+c: &c {type: http, behavior: classical, interval: 86400, format: yaml}
+d: &d {type: http, behavior: domain, interval: 86400, format: yaml}
+i: &i {type: http, behavior: ipcidr, interval: 86400, format: yaml}
+
+Select: &Select {type: select}
+UrlTest: &UrlTest {type: url-test, interval: 300, tolerance: 50, lazy: true, url: 'http://cp.cloudflare.com', disable-udp: false, timeout: 800, max-failed-times: 2, hidden: false, include-all-providers: true}
+
+proxy-groups:
+  - {name: Final,     <<: *Select, proxies: [DIRECT,Proxy], icon: https://pic.yssq.eu.org/%E6%A4%8E%E5%90%8D%E7%9C%9F%E7%99%BD.png}
+  - {name: Proxy,     <<: *Select, proxies: [香港节点,台湾节点,日本节点,狮城节点,美国节点], icon: https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Surge.png}
+  - {name: Spotify,   <<: *Select, proxies: [香港节点,台湾节点], icon: https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Spotify.png}
+  - {name: OpenAI,    <<: *Select, proxies: [日本节点,狮城节点,美国节点], icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/ChatGPT.png}
+  - {name: Google,    <<: *Select, proxies: [香港节点,台湾节点,日本节点,狮城节点,美国节点], icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Google_Search.png}
+  - {name: Microsoft, <<: *Select, proxies: [DIRECT,Proxy], icon: https://clash-verge-rev.github.io/assets/icons/microsoft.svg}
+  - {name: 香港节点,   <<: *Select, include-all: true, filter: "港|HK|(?i)Hong", icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Hong_Kong.png}
+  - {name: 台湾节点,   <<: *Select, include-all: true, filter: "台|湾|TW|(?i)Taiwan", icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/China.png}
+  - {name: 日本节点,   <<: *Select, include-all: true, filter: "日|东京|JP|(?i)Japan", icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Japan.png}
+  - {name: 狮城节点,   <<: *Select, include-all: true, filter: "新|坡|SG|(?i)Singapore", icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Singapore.png}
+  - {name: 美国节点,   <<: *Select, include-all: true, filter: "美|US|(?i)States|American", icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/United_States.png}
+  # - {name: 韩国节点,   <<: *Select, include-all: true, filter: "韩|KR|(?i)Korean", icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Korea.png}
+
+rule-providers:
+  WeChat:      {<<: *c, url: https://ghfast.top/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/WeChat/WeChat.yaml ,                      path: ./ruleset/WeChat.yaml         }
+  Tencent:     {<<: *c, url: https://ghfast.top/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Tencent/Tencent.yaml ,                    path: ./ruleset/Tencent.yaml         }
+  CSDN:        {<<: *c, url: https://ghfast.top/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/CSDN/CSDN.yaml ,                          path: ./ruleset/CSDN.yaml         }
+  BiliBili:    {<<: *c, url: https://ghfast.top/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BiliBili/BiliBili.yaml ,                  path: ./ruleset/BiliBili.yaml     }
+  Github:      {<<: *c, url: https://ghfast.top/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GitHub/GitHub.yaml ,                      path: ./ruleset/Github.yaml       }
+  Spotify:     {<<: *c, url: https://ghfast.top/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Spotify/Spotify.yaml ,                    path: ./ruleset/Spotify.yaml      }
+  YouTube:     {<<: *c, url: https://ghfast.top/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YouTube/YouTube.yaml ,                    path: ./ruleset/YouTube.yaml      }
+  Telegram:    {<<: *c, url: https://ghfast.top/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Telegram/Telegram.yaml ,                  path: ./ruleset/Telegram.yaml     }
+  OpenAI:      {<<: *c, url: https://ghfast.top/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OpenAI/OpenAI.yaml ,                      path: ./ruleset/OpenAI.yaml       }
+  Gemini:      {<<: *c, url: https://ghfast.top/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Gemini/Gemini.yaml ,                      path: ./ruleset/Gemini.yaml       }
+  Claude:      {<<: *c, url: https://ghfast.top/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Claude/Claude.yaml ,                      path: ./ruleset/Claude.yaml       }
+  Google:      {<<: *c, url: https://ghfast.top/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Google/Google.yaml ,                      path: ./ruleset/Google.yaml       }
+  Microsoft:   {<<: *c, url: https://ghfast.top/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Microsoft/Microsoft.yaml ,                path: ./ruleset/Microsoft.yaml    } 
+  Apple:       {<<: *c, url: https://ghfast.top/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Apple/Apple_Classical.yaml ,              path: ./ruleset/Apple.yaml        }
+  Amazon:      {<<: *c, url: https://ghfast.top/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Amazon/Amazon.yaml ,                      path: ./ruleset/Amazon.yaml       }                 
+  PayPal:      {<<: *c, url: https://ghfast.top/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/PayPal/PayPal.yaml ,                      path: ./ruleset/PayPal.yaml       }
+  OKX:         {<<: *c, url: https://ghfast.top/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OKX/OKX.yaml ,                            path: ./ruleset/OKX.yaml          } 
+  Binance:     {<<: *c, url: https://ghfast.top/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Binance/Binance.yaml ,                    path: ./ruleset/Binance.yaml      } 
+  Steam:       {<<: *c, url: https://ghfast.top/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Steam/Steam.yaml ,                        path: ./ruleset/Steam.yaml        }
+  Lan:         {<<: *c, url: https://ghfast.top/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Lan/Lan.yaml ,                            path: ./ruleset/Lan.yaml          }                                   
+  
+rules:
+  - DOMAIN-SUFFIX,cursor.com,Proxy
+  - DOMAIN-SUFFIX,cursor.sh,Proxy
+  - DOMAIN-SUFFIX,linux.do,Proxy
+  - DOMAIN-SUFFIX,wogg.lol,DIRECT
+  - DOMAIN-SUFFIX,wogg.one,DIRECT
+  - DOMAIN,wogg.xxooo.cf,DIRECT
+  - DOMAIN-SUFFIX,mianshiya.com,DIRECT
+  - RULE-SET,WeChat,DIRECT
+  - RULE-SET,Tencent,DIRECT
+  - RULE-SET,CSDN,DIRECT
+  - RULE-SET,BiliBili,DIRECT
+  - RULE-SET,Github,Proxy
+  - RULE-SET,Spotify,Spotify
+  - RULE-SET,YouTube,Proxy
+  - RULE-SET,Telegram,Proxy
+  - RULE-SET,OpenAI,OpenAI
+  - RULE-SET,Gemini,OpenAI
+  - RULE-SET,Claude,OpenAI
+  - RULE-SET,Google,Google
+  - RULE-SET,Microsoft,Microsoft
+  - RULE-SET,Apple,DIRECT
+  - RULE-SET,Amazon,Proxy
+  - RULE-SET,PayPal,DIRECT
+  - RULE-SET,OKX,台湾节点
+  - RULE-SET,Binance,台湾节点
+  - RULE-SET,Steam,Proxy
+  - RULE-SET,Lan,DIRECT
+  - GEOIP,CN,DIRECT
+  - MATCH,Final
