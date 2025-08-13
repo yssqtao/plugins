@@ -1,2 +1,2 @@
 # plugins
-收集Surge、QuanX、Loon插件
+## 收集 surge、loon、quanx 插件
