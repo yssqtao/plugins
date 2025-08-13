@@ -1,0 +1,1141 @@
+{
+  "name": "kelee 图标库",
+  "icons": [
+    {
+      "name": "1.1.1.1",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/1.1.1.1.png"
+    },
+    {
+      "name": "12306",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/12306.png"
+    },
+    {
+      "name": "123云盘",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/123%E4%BA%91%E7%9B%98.png"
+    },
+    {
+      "name": "1919",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/1919.png"
+    },
+    {
+      "name": "360摄像机",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/360%E6%91%84%E5%83%8F%E6%9C%BA.png"
+    },
+    {
+      "name": "360智慧生活",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/360%E6%99%BA%E6%85%A7%E7%94%9F%E6%B4%BB.png"
+    },
+    {
+      "name": "555电影",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/555%E7%94%B5%E5%BD%B1.png"
+    },
+    {
+      "name": "Adobe_Creative_Cloud",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Adobe_Creative_Cloud.png"
+    },
+    {
+      "name": "Agenda",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Agenda.png"
+    },
+    {
+      "name": "AppRaven",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/AppRaven.png"
+    },
+    {
+      "name": "App_Store",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/App_Store.png"
+    },
+    {
+      "name": "Audiomack",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Audiomack.png"
+    },
+    {
+      "name": "B612咔叽",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/B612%E5%92%94%E5%8F%BD.png"
+    },
+    {
+      "name": "Bluesky",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Bluesky.png"
+    },
+    {
+      "name": "BoxJS",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/BoxJS.png"
+    },
+    {
+      "name": "CC直播",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/CC%E7%9B%B4%E6%92%AD.png"
+    },
+    {
+      "name": "ChatGPT",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/ChatGPT.png"
+    },
+    {
+      "name": "Claude",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Claude.png"
+    },
+    {
+      "name": "Cubox",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Cubox.png"
+    },
+    {
+      "name": "DNS防泄露",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/DNS%E9%98%B2%E6%B3%84%E9%9C%B2.png"
+    },
+    {
+      "name": "Darkroom",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Darkroom.png"
+    },
+    {
+      "name": "Dazn",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Dazn.png"
+    },
+    {
+      "name": "DeepL",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/DeepL.png"
+    },
+    {
+      "name": "DeepSeek",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/DeepSeek.png"
+    },
+    {
+      "name": "Discord",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Discord.png"
+    },
+    {
+      "name": "Discovery+",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Discovery%2B.png"
+    },
+    {
+      "name": "Disney+",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Disney%2B.png"
+    },
+    {
+      "name": "Dlabel云标签",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Dlabel%E4%BA%91%E6%A0%87%E7%AD%BE.png"
+    },
+    {
+      "name": "Documents",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Documents.png"
+    },
+    {
+      "name": "Drafts",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Drafts.png"
+    },
+    {
+      "name": "Elk",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Elk.png"
+    },
+    {
+      "name": "Emby",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Emby.png"
+    },
+    {
+      "name": "Enpass_Password_Manager",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Enpass_Password_Manager.png"
+    },
+    {
+      "name": "Fileball",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Fileball.png"
+    },
+    {
+      "name": "Filen",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Filen.png"
+    },
+    {
+      "name": "FollowRSS",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/FollowRSS.png"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/GitHub.png"
+    },
+    {
+      "name": "Google",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Google.png"
+    },
+    {
+      "name": "Google_Gemini",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Google_Gemini.png"
+    },
+    {
+      "name": "Grok",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Grok.png"
+    },
+    {
+      "name": "Grow",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Grow.png"
+    },
+    {
+      "name": "HTTPDNS",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/HTTPDNS.png"
+    },
+    {
+      "name": "Happy-Days",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Happy-Days.png"
+    },
+    {
+      "name": "IT之家",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/IT%E4%B9%8B%E5%AE%B6.png"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Instagram.png"
+    },
+    {
+      "name": "Instapaper",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Instapaper.png"
+    },
+    {
+      "name": "JavaScript转换器",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/JavaScript%E8%BD%AC%E6%8D%A2%E5%99%A8.png"
+    },
+    {
+      "name": "KOOK",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/KOOK.png"
+    },
+    {
+      "name": "Keep",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Keep.png"
+    },
+    {
+      "name": "Kimi",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Kimi.png"
+    },
+    {
+      "name": "Line",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Line.png"
+    },
+    {
+      "name": "Loon",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Loon.png"
+    },
+    {
+      "name": "Microsoft_Copilot",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Microsoft_Copilot.png"
+    },
+    {
+      "name": "Mistral_AI",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Mistral_AI.png"
+    },
+    {
+      "name": "Netflix",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Netflix.png"
+    },
+    {
+      "name": "Nicegram",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Nicegram.png"
+    },
+    {
+      "name": "Nike",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Nike.png"
+    },
+    {
+      "name": "Notability",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Notability.png"
+    },
+    {
+      "name": "OKX",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/OKX.png"
+    },
+    {
+      "name": "OneKey",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/OneKey.png"
+    },
+    {
+      "name": "PDF点睛",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/PDF%E7%82%B9%E7%9D%9B.png"
+    },
+    {
+      "name": "Paramount+",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Paramount%2B.png"
+    },
+    {
+      "name": "PayPal",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/PayPal.png"
+    },
+    {
+      "name": "Picsart",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Picsart.png"
+    },
+    {
+      "name": "PikPak",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/PikPak.png"
+    },
+    {
+      "name": "Prime_Video",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Prime_Video.png"
+    },
+    {
+      "name": "ProCamera",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/ProCamera.png"
+    },
+    {
+      "name": "Proton_Calendar",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Proton_Calendar.png"
+    },
+    {
+      "name": "Proton_Drive",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Proton_Drive.png"
+    },
+    {
+      "name": "Proton_Mail",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Proton_Mail.png"
+    },
+    {
+      "name": "Proton_Pass",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Proton_Pass.png"
+    },
+    {
+      "name": "Proton_VPN",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Proton_VPN.png"
+    },
+    {
+      "name": "QQ",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/QQ.png"
+    },
+    {
+      "name": "QQ音乐",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/QQ%E9%9F%B3%E4%B9%90.png"
+    },
+    {
+      "name": "Reddit",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Reddit.png"
+    },
+    {
+      "name": "ReelShort",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/ReelShort.png"
+    },
+    {
+      "name": "RevenueCat",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/RevenueCat.png"
+    },
+    {
+      "name": "Safari",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Safari.png"
+    },
+    {
+      "name": "Scanner_Pro",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Scanner_Pro.png"
+    },
+    {
+      "name": "Script-Hub",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Script-Hub.png"
+    },
+    {
+      "name": "Signal",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Signal.png"
+    },
+    {
+      "name": "Soul",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Soul.png"
+    },
+    {
+      "name": "Spark",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Spark.png"
+    },
+    {
+      "name": "Spotify",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Spotify.png"
+    },
+    {
+      "name": "Stay",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Stay.png"
+    },
+    {
+      "name": "Sub-Store",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Sub-Store.png"
+    },
+    {
+      "name": "Switch",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Switch.png"
+    },
+    {
+      "name": "Talkatone",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Talkatone.png"
+    },
+    {
+      "name": "TapTap",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/TapTap.png"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Telegram.png"
+    },
+    {
+      "name": "TestFlight",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/TestFlight.png"
+    },
+    {
+      "name": "TikTok",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/TikTok.png"
+    },
+    {
+      "name": "TubeMax",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/TubeMax.png"
+    },
+    {
+      "name": "Uki",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Uki.png"
+    },
+    {
+      "name": "UpNote",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/UpNote.png"
+    },
+    {
+      "name": "VVebo",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/VVebo.png"
+    },
+    {
+      "name": "WPS",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/WPS.png"
+    },
+    {
+      "name": "WPS文档",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/WPS%E6%96%87%E6%A1%A3.png"
+    },
+    {
+      "name": "WebDAV",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/WebDAV.png"
+    },
+    {
+      "name": "Wind金融终端",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Wind%E9%87%91%E8%9E%8D%E7%BB%88%E7%AB%AF.png"
+    },
+    {
+      "name": "X",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/X.png"
+    },
+    {
+      "name": "Xmind",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Xmind.png"
+    },
+    {
+      "name": "YY",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/YY.png"
+    },
+    {
+      "name": "Yealico",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/Yealico.png"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/YouTube.png"
+    },
+    {
+      "name": "YouTube_Music",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/YouTube_Music.png"
+    },
+    {
+      "name": "ZAKER",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/ZAKER.png"
+    },
+    {
+      "name": "giffgaff",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/giffgaff.png"
+    },
+    {
+      "name": "一刻相册",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E4%B8%80%E5%88%BB%E7%9B%B8%E5%86%8C.png"
+    },
+    {
+      "name": "一甜相机",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E4%B8%80%E7%94%9C%E7%9B%B8%E6%9C%BA.png"
+    },
+    {
+      "name": "一键抠图",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E4%B8%80%E9%94%AE%E6%8A%A0%E5%9B%BE.png"
+    },
+    {
+      "name": "七猫小说",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E4%B8%83%E7%8C%AB%E5%B0%8F%E8%AF%B4.png"
+    },
+    {
+      "name": "下厨房",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E4%B8%8B%E5%8E%A8%E6%88%BF.png"
+    },
+    {
+      "name": "中华万年历",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E4%B8%AD%E5%8D%8E%E4%B8%87%E5%B9%B4%E5%8E%86.png"
+    },
+    {
+      "name": "中国人保",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%BF%9D.png"
+    },
+    {
+      "name": "中国电信",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E4%B8%AD%E5%9B%BD%E7%94%B5%E4%BF%A1.png"
+    },
+    {
+      "name": "中国移动",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8.png"
+    },
+    {
+      "name": "中国移动云盘",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8%E4%BA%91%E7%9B%98.png"
+    },
+    {
+      "name": "中国联通",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E4%B8%AD%E5%9B%BD%E8%81%94%E9%80%9A.png"
+    },
+    {
+      "name": "丰巢",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E4%B8%B0%E5%B7%A2.png"
+    },
+    {
+      "name": "乐播投屏",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E4%B9%90%E6%92%AD%E6%8A%95%E5%B1%8F.png"
+    },
+    {
+      "name": "书旗小说",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E4%B9%A6%E6%97%97%E5%B0%8F%E8%AF%B4.png"
+    },
+    {
+      "name": "云闪付",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E4%BA%91%E9%97%AA%E4%BB%98.png"
+    },
+    {
+      "name": "京东",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E4%BA%AC%E4%B8%9C.png"
+    },
+    {
+      "name": "京东金融",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E4%BA%AC%E4%B8%9C%E9%87%91%E8%9E%8D.png"
+    },
+    {
+      "name": "什么值得买",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E4%BB%80%E4%B9%88%E5%80%BC%E5%BE%97%E4%B9%B0.png"
+    },
+    {
+      "name": "优酷视频",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E4%BC%98%E9%85%B7%E8%A7%86%E9%A2%91.png"
+    },
+    {
+      "name": "健康160",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E5%81%A5%E5%BA%B7160.png"
+    },
+    {
+      "name": "催眠大师",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E5%82%AC%E7%9C%A0%E5%A4%A7%E5%B8%88.png"
+    },
+    {
+      "name": "全民K歌",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E5%85%A8%E6%B0%91K%E6%AD%8C.png"
+    },
+    {
+      "name": "前程无忧",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E5%89%8D%E7%A8%8B%E6%97%A0%E5%BF%A7.png"
+    },
+    {
+      "name": "剑网三无界",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E5%89%91%E7%BD%91%E4%B8%89%E6%97%A0%E7%95%8C.png"
+    },
+    {
+      "name": "半次元",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E5%8D%8A%E6%AC%A1%E5%85%83.png"
+    },
+    {
+      "name": "叮咚买菜",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E5%8F%AE%E5%92%9A%E4%B9%B0%E8%8F%9C.png"
+    },
+    {
+      "name": "可莉",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E5%8F%AF%E8%8E%89.png"
+    },
+    {
+      "name": "向日葵",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E5%90%91%E6%97%A5%E8%91%B5.png"
+    },
+    {
+      "name": "启信宝",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E5%90%AF%E4%BF%A1%E5%AE%9D.png"
+    },
+    {
+      "name": "哔哩哔哩",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9.png"
+    },
+    {
+      "name": "哔哩哔哩漫画",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E6%BC%AB%E7%94%BB.png"
+    },
+    {
+      "name": "唱吧",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E5%94%B1%E5%90%A7.png"
+    },
+    {
+      "name": "喜马拉雅",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85.png"
+    },
+    {
+      "name": "堆糖",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E5%A0%86%E7%B3%96.png"
+    },
+    {
+      "name": "墨迹天气",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E5%A2%A8%E8%BF%B9%E5%A4%A9%E6%B0%94.png"
+    },
+    {
+      "name": "天气",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E5%A4%A9%E6%B0%94.png"
+    },
+    {
+      "name": "央视频",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E5%A4%AE%E8%A7%86%E9%A2%91.png"
+    },
+    {
+      "name": "夸克",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E5%A4%B8%E5%85%8B.png"
+    },
+    {
+      "name": "威锋",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E5%A8%81%E9%94%8B.png"
+    },
+    {
+      "name": "字节跳动广告",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E5%B9%BF%E5%91%8A.png"
+    },
+    {
+      "name": "宝宝树孕育",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E5%AE%9D%E5%AE%9D%E6%A0%91%E5%AD%95%E8%82%B2.png"
+    },
+    {
+      "name": "小喵看书",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E5%B0%8F%E5%96%B5%E7%9C%8B%E4%B9%A6.png"
+    },
+    {
+      "name": "小宇宙",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E5%B0%8F%E5%AE%87%E5%AE%99.png"
+    },
+    {
+      "name": "小店掌柜",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E5%B0%8F%E5%BA%97%E6%8E%8C%E6%9F%9C.png"
+    },
+    {
+      "name": "小米音箱",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E5%B0%8F%E7%B1%B3%E9%9F%B3%E7%AE%B1.png"
+    },
+    {
+      "name": "小红书",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E5%B0%8F%E7%BA%A2%E4%B9%A6.png"
+    },
+    {
+      "name": "小蚕霸王餐",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E5%B0%8F%E8%9A%95%E9%9C%B8%E7%8E%8B%E9%A4%90.png"
+    },
+    {
+      "name": "小象买菜",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E5%B0%8F%E8%B1%A1%E4%B9%B0%E8%8F%9C.png"
+    },
+    {
+      "name": "小黑盒",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E5%B0%8F%E9%BB%91%E7%9B%92.png"
+    },
+    {
+      "name": "帆书",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E5%B8%86%E4%B9%A6.png"
+    },
+    {
+      "name": "广告拦截",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA.png"
+    },
+    {
+      "name": "彩云天气",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E5%BD%A9%E4%BA%91%E5%A4%A9%E6%B0%94.png"
+    },
+    {
+      "name": "彩云天气Pro",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E5%BD%A9%E4%BA%91%E5%A4%A9%E6%B0%94Pro.png"
+    },
+    {
+      "name": "得间小说",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E5%BE%97%E9%97%B4%E5%B0%8F%E8%AF%B4.png"
+    },
+    {
+      "name": "微信",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E5%BE%AE%E4%BF%A1.png"
+    },
+    {
+      "name": "微信小程序",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F.png"
+    },
+    {
+      "name": "微博",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E5%BE%AE%E5%8D%9A.png"
+    },
+    {
+      "name": "微博轻享版",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E5%BE%AE%E5%8D%9A%E8%BD%BB%E4%BA%AB%E7%89%88.png"
+    },
+    {
+      "name": "必应",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E5%BF%85%E5%BA%94.png"
+    },
+    {
+      "name": "快对",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E5%BF%AB%E5%AF%B9.png"
+    },
+    {
+      "name": "快影",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E5%BF%AB%E5%BD%B1.png"
+    },
+    {
+      "name": "快手",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E5%BF%AB%E6%89%8B.png"
+    },
+    {
+      "name": "快看漫画",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E5%BF%AB%E7%9C%8B%E6%BC%AB%E7%94%BB.png"
+    },
+    {
+      "name": "快递100",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E5%BF%AB%E9%80%92100.png"
+    },
+    {
+      "name": "悟空浏览器",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E6%82%9F%E7%A9%BA%E6%B5%8F%E8%A7%88%E5%99%A8.png"
+    },
+    {
+      "name": "懒人听书",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E6%87%92%E4%BA%BA%E5%90%AC%E4%B9%A6.png"
+    },
+    {
+      "name": "成分喵",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E6%88%90%E5%88%86%E5%96%B5.png"
+    },
+    {
+      "name": "拼多多",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E6%8B%BC%E5%A4%9A%E5%A4%9A.png"
+    },
+    {
+      "name": "挖财记账",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E6%8C%96%E8%B4%A2%E8%AE%B0%E8%B4%A6.png"
+    },
+    {
+      "name": "掌上公交",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E6%8E%8C%E4%B8%8A%E5%85%AC%E4%BA%A4.png"
+    },
+    {
+      "name": "推栏",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E6%8E%A8%E6%A0%8F.png"
+    },
+    {
+      "name": "搜图神器",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E6%90%9C%E5%9B%BE%E7%A5%9E%E5%99%A8.png"
+    },
+    {
+      "name": "携程旅行",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E6%90%BA%E7%A8%8B%E6%97%85%E8%A1%8C.png"
+    },
+    {
+      "name": "支付宝",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E6%94%AF%E4%BB%98%E5%AE%9D.png"
+    },
+    {
+      "name": "收银通商户端",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E6%94%B6%E9%93%B6%E9%80%9A%E5%95%86%E6%88%B7%E7%AB%AF.png"
+    },
+    {
+      "name": "斗鱼",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E6%96%97%E9%B1%BC.png"
+    },
+    {
+      "name": "无他相机",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E6%97%A0%E4%BB%96%E7%9B%B8%E6%9C%BA.png"
+    },
+    {
+      "name": "智慧苏州",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E6%99%BA%E6%85%A7%E8%8B%8F%E5%B7%9E.png"
+    },
+    {
+      "name": "智联招聘",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98.png"
+    },
+    {
+      "name": "智谱清言",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E6%99%BA%E8%B0%B1%E6%B8%85%E8%A8%80.png"
+    },
+    {
+      "name": "最右",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E6%9C%80%E5%8F%B3.png"
+    },
+    {
+      "name": "有道云笔记",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E6%9C%89%E9%81%93%E4%BA%91%E7%AC%94%E8%AE%B0.png"
+    },
+    {
+      "name": "有道翻译官",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E6%9C%89%E9%81%93%E7%BF%BB%E8%AF%91%E5%AE%98.png"
+    },
+    {
+      "name": "朴朴超市",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E6%9C%B4%E6%9C%B4%E8%B6%85%E5%B8%82.png"
+    },
+    {
+      "name": "比心",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E6%AF%94%E5%BF%83.png"
+    },
+    {
+      "name": "比特球云盘",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E6%AF%94%E7%89%B9%E7%90%83%E4%BA%91%E7%9B%98.png"
+    },
+    {
+      "name": "汽水音乐",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E6%B1%BD%E6%B0%B4%E9%9F%B3%E4%B9%90.png"
+    },
+    {
+      "name": "汽车之家",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E6%B1%BD%E8%BD%A6%E4%B9%8B%E5%AE%B6.png"
+    },
+    {
+      "name": "河马剧场",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E6%B2%B3%E9%A9%AC%E5%89%A7%E5%9C%BA.png"
+    },
+    {
+      "name": "波点音乐",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E6%B3%A2%E7%82%B9%E9%9F%B3%E4%B9%90.png"
+    },
+    {
+      "name": "海螺AI",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E6%B5%B7%E8%9E%BAAI.png"
+    },
+    {
+      "name": "淘宝",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E6%B7%98%E5%AE%9D.png"
+    },
+    {
+      "name": "淘票票",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E6%B7%98%E7%A5%A8%E7%A5%A8.png"
+    },
+    {
+      "name": "深圳地铁",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81.png"
+    },
+    {
+      "name": "滴滴出行",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E6%BB%B4%E6%BB%B4%E5%87%BA%E8%A1%8C.png"
+    },
+    {
+      "name": "漫客栈",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E6%BC%AB%E5%AE%A2%E6%A0%88.png"
+    },
+    {
+      "name": "爱企查",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E7%88%B1%E4%BC%81%E6%9F%A5.png"
+    },
+    {
+      "name": "爱啪思道",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E7%88%B1%E5%95%AA%E6%80%9D%E9%81%93.png"
+    },
+    {
+      "name": "爱奇艺",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E7%88%B1%E5%A5%87%E8%89%BA.png"
+    },
+    {
+      "name": "爱思助手",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E7%88%B1%E6%80%9D%E5%8A%A9%E6%89%8B.png"
+    },
+    {
+      "name": "猫耳FM",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E7%8C%AB%E8%80%B3FM.png"
+    },
+    {
+      "name": "瑞幸咖啡",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E7%91%9E%E5%B9%B8%E5%92%96%E5%95%A1.png"
+    },
+    {
+      "name": "番茄小说",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E7%95%AA%E8%8C%84%E5%B0%8F%E8%AF%B4.png"
+    },
+    {
+      "name": "番茄畅听",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E7%95%AA%E8%8C%84%E7%95%85%E5%90%AC.png"
+    },
+    {
+      "name": "百度",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E7%99%BE%E5%BA%A6.png"
+    },
+    {
+      "name": "百度地图",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BE.png"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98.png"
+    },
+    {
+      "name": "百度输入法",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E7%99%BE%E5%BA%A6%E8%BE%93%E5%85%A5%E6%B3%95.png"
+    },
+    {
+      "name": "百词斩",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E7%99%BE%E8%AF%8D%E6%96%A9.png"
+    },
+    {
+      "name": "皮皮虾",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E7%9A%AE%E7%9A%AE%E8%99%BE.png"
+    },
+    {
+      "name": "盖得排行",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E7%9B%96%E5%BE%97%E6%8E%92%E8%A1%8C.png"
+    },
+    {
+      "name": "直播吧",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E7%9B%B4%E6%92%AD%E5%90%A7.png"
+    },
+    {
+      "name": "省钱快报",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E7%9C%81%E9%92%B1%E5%BF%AB%E6%8A%A5.png"
+    },
+    {
+      "name": "知乎",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E7%9F%A5%E4%B9%8E.png"
+    },
+    {
+      "name": "知识星球",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83.png"
+    },
+    {
+      "name": "磁力宅播放器",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E7%A3%81%E5%8A%9B%E5%AE%85%E6%92%AD%E6%94%BE%E5%99%A8.png"
+    },
+    {
+      "name": "稿定设计",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E7%A8%BF%E5%AE%9A%E8%AE%BE%E8%AE%A1.png"
+    },
+    {
+      "name": "米家",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E7%B1%B3%E5%AE%B6.png"
+    },
+    {
+      "name": "粉笔",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E7%B2%89%E7%AC%94.png"
+    },
+    {
+      "name": "粉象生活",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E7%B2%89%E8%B1%A1%E7%94%9F%E6%B4%BB.png"
+    },
+    {
+      "name": "红果短剧",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7.png"
+    },
+    {
+      "name": "纵横小说",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E7%BA%B5%E6%A8%AA%E5%B0%8F%E8%AF%B4.png"
+    },
+    {
+      "name": "网易云音乐",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90.png"
+    },
+    {
+      "name": "网易大神",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E7%BD%91%E6%98%93%E5%A4%A7%E7%A5%9E.png"
+    },
+    {
+      "name": "网易新闻",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E7%BD%91%E6%98%93%E6%96%B0%E9%97%BB.png"
+    },
+    {
+      "name": "网易有道词典",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E7%BD%91%E6%98%93%E6%9C%89%E9%81%93%E8%AF%8D%E5%85%B8.png"
+    },
+    {
+      "name": "网易邮箱大师",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E7%BD%91%E6%98%93%E9%82%AE%E7%AE%B1%E5%A4%A7%E5%B8%88.png"
+    },
+    {
+      "name": "美团外卖",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E7%BE%8E%E5%9B%A2%E5%A4%96%E5%8D%96.png"
+    },
+    {
+      "name": "美图秀秀",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E7%BE%8E%E5%9B%BE%E7%A7%80%E7%A7%80.png"
+    },
+    {
+      "name": "美柚",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E7%BE%8E%E6%9F%9A.png"
+    },
+    {
+      "name": "美颜相机",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E7%BE%8E%E9%A2%9C%E7%9B%B8%E6%9C%BA.png"
+    },
+    {
+      "name": "美食杰",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E7%BE%8E%E9%A3%9F%E6%9D%B0.png"
+    },
+    {
+      "name": "脉脉",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E8%84%89%E8%84%89.png"
+    },
+    {
+      "name": "腾讯动漫",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E8%85%BE%E8%AE%AF%E5%8A%A8%E6%BC%AB.png"
+    },
+    {
+      "name": "腾讯广告",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E8%85%BE%E8%AE%AF%E5%B9%BF%E5%91%8A.png"
+    },
+    {
+      "name": "腾讯文档",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E8%85%BE%E8%AE%AF%E6%96%87%E6%A1%A3.png"
+    },
+    {
+      "name": "腾讯视频",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91.png"
+    },
+    {
+      "name": "航旅纵横",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E8%88%AA%E6%97%85%E7%BA%B5%E6%A8%AA.png"
+    },
+    {
+      "name": "节点检测工具",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E8%8A%82%E7%82%B9%E6%A3%80%E6%B5%8B%E5%B7%A5%E5%85%B7.png"
+    },
+    {
+      "name": "芒果TV",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E8%8A%92%E6%9E%9CTV.png"
+    },
+    {
+      "name": "菜鸟",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E8%8F%9C%E9%B8%9F.png"
+    },
+    {
+      "name": "萤石云视频",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E8%90%A4%E7%9F%B3%E4%BA%91%E8%A7%86%E9%A2%91.png"
+    },
+    {
+      "name": "薄荷健康",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E8%96%84%E8%8D%B7%E5%81%A5%E5%BA%B7.png"
+    },
+    {
+      "name": "虎扑",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E8%99%8E%E6%89%91.png"
+    },
+    {
+      "name": "蜻蜓FM",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E8%9C%BB%E8%9C%93FM.png"
+    },
+    {
+      "name": "视频盒子",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E8%A7%86%E9%A2%91%E7%9B%92%E5%AD%90.png"
+    },
+    {
+      "name": "豆瓣",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E8%B1%86%E7%93%A3.png"
+    },
+    {
+      "name": "贝壳找房",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E8%B4%9D%E5%A3%B3%E6%89%BE%E6%88%BF.png"
+    },
+    {
+      "name": "财新",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E8%B4%A2%E6%96%B0.png"
+    },
+    {
+      "name": "贴吧",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E8%B4%B4%E5%90%A7.png"
+    },
+    {
+      "name": "起点读书",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E8%B5%B7%E7%82%B9%E8%AF%BB%E4%B9%A6.png"
+    },
+    {
+      "name": "转转",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E8%BD%AC%E8%BD%AC.png"
+    },
+    {
+      "name": "迅雷",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E8%BF%85%E9%9B%B7.png"
+    },
+    {
+      "name": "远程资源转换器",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E8%BF%9C%E7%A8%8B%E8%B5%84%E6%BA%90%E8%BD%AC%E6%8D%A2%E5%99%A8.png"
+    },
+    {
+      "name": "通义",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E9%80%9A%E4%B9%89.png"
+    },
+    {
+      "name": "配音秀",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E9%85%8D%E9%9F%B3%E7%A7%80.png"
+    },
+    {
+      "name": "酷安",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E9%85%B7%E5%AE%89.png"
+    },
+    {
+      "name": "酷我音乐",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90.png"
+    },
+    {
+      "name": "酷狗铃声",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E9%85%B7%E7%8B%97%E9%93%83%E5%A3%B0.png"
+    },
+    {
+      "name": "酷狗音乐",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E9%85%B7%E7%8B%97%E9%9F%B3%E4%B9%90.png"
+    },
+    {
+      "name": "银行",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E9%93%B6%E8%A1%8C.png"
+    },
+    {
+      "name": "闲鱼",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E9%97%B2%E9%B1%BC.png"
+    },
+    {
+      "name": "阅友",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E9%98%85%E5%8F%8B.png"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98.png"
+    },
+    {
+      "name": "随手记",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E9%9A%8F%E6%89%8B%E8%AE%B0.png"
+    },
+    {
+      "name": "雪球",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E9%9B%AA%E7%90%83.png"
+    },
+    {
+      "name": "韩小圈",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E9%9F%A9%E5%B0%8F%E5%9C%88.png"
+    },
+    {
+      "name": "顺丰速运",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E9%A1%BA%E4%B8%B0%E9%80%9F%E8%BF%90.png"
+    },
+    {
+      "name": "风鸟",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E9%A3%8E%E9%B8%9F.png"
+    },
+    {
+      "name": "飞客",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E9%A3%9E%E5%AE%A2.png"
+    },
+    {
+      "name": "飞常准",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E9%A3%9E%E5%B8%B8%E5%87%86.png"
+    },
+    {
+      "name": "饿了么",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E9%A5%BF%E4%BA%86%E4%B9%88.png"
+    },
+    {
+      "name": "马蜂窝",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E9%A9%AC%E8%9C%82%E7%AA%9D.png"
+    },
+    {
+      "name": "驾校一点通",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E9%A9%BE%E6%A0%A1%E4%B8%80%E7%82%B9%E9%80%9A.png"
+    },
+    {
+      "name": "驾考宝典",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E9%A9%BE%E8%80%83%E5%AE%9D%E5%85%B8.png"
+    },
+    {
+      "name": "高德地图",
+      "url": "https://raw.githubusercontent.com/yssqtao/plugins/main/icon/kelee/%E9%AB%98%E5%BE%B7%E5%9C%B0%E5%9B%BE.png"
+    }
+  ]
+}
